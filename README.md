@@ -1,13 +1,16 @@
-# Revenue Operations Streamlit Dashboard
+# Revenue Operations Dashboard
 
-This dashboard reads the included Excel workbook and visualizes:
+Interactive Streamlit dashboard created as part of a Revenue Operations analytics case study.
 
-- Win rate by country
-- Win rate by CRM
-- Deal distribution by stage
-- Deal count by source
-- Win rate by PPC budget
-- Data quality checks for closing dates, loss reasons, AQL dates, and missing CRM values
+Features:
+
+- Executive KPI overview
+- Conversion analytics
+- Data quality controls
+- Business investigation findings
+- Revenue Operations insights
+- AI usage documentation
+- Interactive filtering by country, CRM, and date range
 
 ## Run locally
 
