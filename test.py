@@ -12,7 +12,7 @@ import streamlit as st
 
 
 APP_TITLE = "Revenue Operations Dashboard"
-DEFAULT_DATA_PATH = Path(__file__).parent / "Copy of Test task Template _ Revenue Operations Specialist at Ringostat.xlsx"
+DEFAULT_DATA_PATH = Path(__file__).parent / "revenue_operations.xlsx"
 RAW_CRM_COLUMN = "_Client CRM Raw"
 
 CLOSED_WON = "Closed Won"
