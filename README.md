@@ -18,6 +18,8 @@ streamlit run app.py
 
 The app includes `data/revenue_operations.xlsx` by default. You can also upload another Excel file with the same column structure from the sidebar.
 
+https://perebendya.streamlit.app/
+
 ## Win rate logic
 
 Win rate is calculated as:
